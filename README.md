@@ -22,6 +22,7 @@
 
 ## Пример вывода
 
-![image](https://github.com/user-attachments/assets/fe948cc8-bd3a-4973-86b4-e825573b11a8)
+![image](https://github.com/user-attachments/assets/d32ac1b6-a8aa-48f4-a046-acefc8981d29)
+
 
 
